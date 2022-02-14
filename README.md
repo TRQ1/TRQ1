@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### Q1 is DevOps/SRE Engineer
 <!--
 **TRQ1/TRQ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![TRQ1's github stats](https://github-readme-stats.vercel.app/api?username=TRQ1&count_private=true)
